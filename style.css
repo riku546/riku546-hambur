@@ -273,6 +273,11 @@ margin-top: 30px;
 .back{
   text-align: center;
 }
+
+.back a{
+color:black;
+
+}
 @media(max-width:900px){
 
   .hamburger{
