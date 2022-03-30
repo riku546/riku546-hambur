@@ -307,5 +307,20 @@ max-width: 100%;
 .company-map iframe{
   width: 100%;
 }
+  .item-main{
+  max-width: 100%;
+}
+.item{
+display: block;
+max-width: 100%;
+  
+}
+.item img{
+ height: 200px;
+max-width: 100%;
+}
+.item ul{
+  margin: 0;
+}
 
 }
