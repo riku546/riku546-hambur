@@ -270,6 +270,9 @@ margin-top: 30px;
 .view-more a{
   margin: 10px;
 }
+.back{
+  text-align: center;
+}
 @media(max-width:900px){
 
   .hamburger{
